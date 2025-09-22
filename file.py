@@ -5,3 +5,6 @@ print("good day")
 print("New feature")
 print("Kill the girlfriend")
 print("New feature5")
+for i in range(20,24):
+   print(i)
+   
